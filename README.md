@@ -1,16 +1,17 @@
-## Hi there 👋
+درود، من پارسا هستم.
 
-<!--
-**ParsaKSH/ParsaKSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+به پروفایل گیت‌هاب من خوش اومدید.
 
-Here are some ideas to get you started:
+من یک نوجوان مشتاقم که عاشق یادگیری و پیشرفت هستم.  
+به کشورم **ایران** افتخار می‌کنم و به **آگاهی** و رشد انسان‌ها امید دارم.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## درباره من:
+- 🔭 درحال حاضر با کنکور دست و پنجه نرم میکنم.
+- 🌱 همیشه دنبال یاد گرفتن چیزای جدیدم
+- ❤️ علاقه‌مند به منطق و پیشرفت اجتماعی
+- 💡 رشتم ریاضیه و علاقمند به برقم
+
+---
+
+
+![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaKSH&show_icons=true&theme=tokyonight)
