@@ -1,4 +1,4 @@
-درود، من پارسا هستم.
+Hi!, im Parsa
 -
 ---
 
@@ -7,4 +7,4 @@
 
 
 
-![Parsa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaKSH&show_icons=true&theme=tokyonight)
+![Parsa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaKSH&show_icons=true&theme=tokyonight&)
