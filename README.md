@@ -1,6 +1,6 @@
 ### Hi, I'm Parsa 👋
 - 💻 Passionate about Linux, Networking, and Systems Engineering  
-- 🐧 Experienced with Bash scripting, Go development, and hosting services  
+- 🐧 Experienced with Go development, Bash scripting, and hosting services  
 - 🔗 Interested in ICT, DevOps, and applied computer science  
 
 ---
