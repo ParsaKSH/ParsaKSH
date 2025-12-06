@@ -5,6 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://githubcard.com/ParsaKSH.svg?d=6dXALHLJ&" width="600"/>
+<p >
+  <img src="https://githubcard.com/ParsaKSH.svg?d=6dXALHLJ&" width="550"/>
 </p>
